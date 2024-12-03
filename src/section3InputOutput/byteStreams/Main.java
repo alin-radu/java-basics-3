@@ -1,8 +1,8 @@
-package section3InputOutput;
+package section3InputOutput.byteStreams;
 
 import java.io.*;
 
-public class MainIOBasics {
+public class Main {
     static String inFileStr = "files/picture.jpg";
     static String outFileStrNoBuffer = "files/picture-out-no-buffer.jpg";
     static String outFileStrWithBuffer = "files/picture-out-with-buffer.jpg";
